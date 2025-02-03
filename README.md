@@ -1,4 +1,4 @@
-# BlocEstate : The Future of Secure Property Auctions in Indonesia. 🚀
+# Roomie : A Web3 AI-Powered Accommodation Booking Platform Utilizing the ERC-1155 Standard and Escrow-Based Deposits. 🚀
 
 ## 📦 Development Setup 
 - Frontend :
